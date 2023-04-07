@@ -1,2 +1,2 @@
 # maven-helloworld
-hi team
+maven job
